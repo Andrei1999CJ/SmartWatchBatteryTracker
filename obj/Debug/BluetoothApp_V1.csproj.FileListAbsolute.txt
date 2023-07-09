@@ -1,0 +1,15 @@
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\bin\Debug\BluetoothApp_V1.exe.config
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\bin\Debug\BluetoothApp_V1.exe
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\bin\Debug\BluetoothApp_V1.pdb
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.csproj.AssemblyReference.cache
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.csproj.SuggestedBindingRedirects.cache
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.Form1.resources
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.Properties.Resources.resources
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.csproj.GenerateResource.cache
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.csproj.CoreCompileInputs.cache
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.exe
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.pdb
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\bin\Debug\system.runtime.windowsruntime.dll
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\bin\Debug\Windows.winmd
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\bin\Debug\system.runtime.windowsruntime.xml
+D:\Proiecte\C#_GUI_Projects\BluetoothApp_V1\obj\Debug\BluetoothApp_V1.csproj.CopyComplete
